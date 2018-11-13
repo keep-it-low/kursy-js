@@ -9,7 +9,7 @@
     }
 
     function isNaN(variable){
-        return variable === NaN;
+        return isNaN(variable);
     }
 
     function isEmpty(obj){
